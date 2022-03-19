@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShiroeFS
-- 👀 I’m interested in learning programming, Japanese culture, cartoons, etc. and reading books :)
-- 🌱 I’m currently learning Python and Django framework.
+- 👀 I’m interested in learning programming, Japanese culture, cartoons, reading books, etc. :)
+- 🌱 I’m currently learning Python and JavaScript for web dev.
 - 📫 You can reach me on Discord - Shiroe#9525.
 
 <!---
