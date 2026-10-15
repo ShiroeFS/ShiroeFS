@@ -1,7 +1,9 @@
+<!--
 - 👋 Hi, I’m @ShiroeFS
 - 👀 I’m interested in learning programming, Japanese culture, cartoons, reading books, etc. :)
 - 🌱 I’m currently learning Python and JavaScript for web dev.
 - 📫 You can reach me on Discord - Camniel#9525.
+-->
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
